@@ -12,8 +12,8 @@ cd docs/.vuepress/dist
 # if you are deploying to a custom domain
 # echo 'www.example.com' > CNAME
 
-aws s3 rm s3://app.intempt.help-docs --recursive
-aws s3 cp . s3://app.intempt.help-docs --recursive
+aws s3 rm s3://app.intempt.help --recursive
+aws s3 cp . s3://app.intempt.help --recursive
 
 #git init
 #git add -A
