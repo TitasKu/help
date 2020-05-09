@@ -2,9 +2,8 @@ const path = require("path");
 
 module.exports = {
   title: 'Platform',
-  publicPath: process.env.NODE_ENV === 'production'
-    ? '/help-docs/'
-    : '/',
+  base: '/help-docs/',
+  outputDir: path.resolve(__dirname, ".vuepress/dist"),	
   description: '',
   head: [
     ['meta', { name: 'theme-color', content: '#3eaf7c' }],
