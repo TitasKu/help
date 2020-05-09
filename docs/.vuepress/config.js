@@ -3,7 +3,7 @@ const path = require("path");
 module.exports = {
   title: 'Platform',
   base: '/help/',
-  outputDir: path.resolve(__dirname, ".vuepress/dist"),	
+  outputDir: path.resolve(__dirname, ".vuepress/dist"),
   description: '',
   head: [
     ['meta', { name: 'theme-color', content: '#3eaf7c' }],
