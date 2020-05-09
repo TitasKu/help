@@ -12,7 +12,7 @@ We’ll be using user stories around food experiences to illustrate the key conc
 
 The goal of the website is to introduce end users to the restaurant. The CTA on this page is for the user to get a feel for the restaurant and search for available reservations - since this website has the Intempt SDK integrated, all behavior on the website is autotracked.
 
-![img](/intempt_img_1.png)
+![img](intempt_img_1.png)
 
 After searching and booking a reservation the user is asked to download the App to complete their reservation since the App is central to their restaurant experience. 
 
@@ -24,7 +24,7 @@ After making a reservation, the User is asked to download the app and login to s
 
 This Login Identifier is also used by Intempt to stitch the User profile between the Web and iOS as will be evident later. 
 
-![img](/image3.png)
+![img](image3.png)
 
 **CONVERSION & CROSS-SELL WORKFLOW**
 
@@ -32,15 +32,15 @@ This Login Identifier is also used by Intempt to stitch the User profile between
 
 The App introduces the User to the concept of earning tokens (from your loyalty provider), upgrading to the latest version.
 
-![img](/image9.png)
+![img](image9.png)
 
 Users are encouraged to explore the menu to order while in the restaurant to order and earn tokens in the process.
 
-![img](/image6.png)
+![img](image6.png)
 
 ## 4. Workflow: Finally they review their options and place their order
 
-![img](/image1.jpg)
+![img](image1.jpg)
 
 Once biometrics are implemented, the user can authorize new Sessions with her biometrics and only rely on the PIN as a backup if biometrics are not working.
 
@@ -50,13 +50,13 @@ Once biometrics are implemented, the user can authorize new Sessions with her bi
 
 Users that have finished their meal and had a good experience (evidenced by a 5* review in the App) are encouraged to receive a complimentary appetizer on their next visit and encouraged to share their experience with their community.
 
-![img](/image5.jpg)
+![img](image5.jpg)
 
 ## 6. Logging into the Web to re-book
 
 The user finally goes back to the website to book another reservation and the process repeats itself. 
 
-![img](/image2.png)
+![img](image2.png)
 
 ## 7. Understanding Web and iOS Activity in a Single View
 
@@ -65,7 +65,7 @@ One of the innovations of Intempt is that the Web user and the iOS App user show
 Moreover anonymous activity (no login) is difficult to see as a continuous activity with the logged in user - this problem is compounded when you have two different applications, so you end up managing up-to-four (in this case) activity streams that really belong to one User activity stream. 
 At Intempt we have a Customer Data Platform that syncs and merges the User profile across devices and identifiers.
 
-![img](/image11.png)
+![img](image11.png)
 
 ## 8. Segmentation for personalized orchestration across your customers’ experience.
 
@@ -73,7 +73,7 @@ As you can imagine, your Users are in various stages. Some have made a reservati
 
 Finally apart from behavior, some Users have different demographics. We don’t just mean gender and age, we mean they’re a food critic, a chef that knows the Owner or a vegan, for example or one that has a stated preference for privacy and non-smoking.
 
-![img](/image17.png)
+![img](image17.png)
 
 **SEGMENTATION PROCESS**
 

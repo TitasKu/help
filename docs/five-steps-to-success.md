@@ -33,13 +33,13 @@ The first thing you need to do to get started with Intempt Platform is to [sign-
 Intempt Platform is available on desktop only using either Chrome or Firefox. If you navigate to the sign-up link above on mobile, you will be allowed to proceed but we recommend a Desktop browser for the best experience. 
 After you register you will immediately receive access to the Playground Organization. You should create your own Organization that will house your data in Sources.
 
-![img](/image1.png)
+![img](image1.png)
 
 ### b. Choose Sources  ###
 
 During setup, for the Sources that you see yourself getting data from, you will create them. For a JS source, you will get a code snippet to deploy.
 
-![img](/image15.png)
+![img](image15.png)
 
 ::: warning
 - Refer to the Intempt [JS SDK](https://github.com/intempt/intempt-intemptjs) on Github to understand the configuration options when deploying the JS source.
@@ -50,7 +50,7 @@ API SOURCE
 
 For all Sources that are not of Web or iOS, you can directly call the Collections and Relations API to store data. You will need an API key which you can grab from the UI.
 
-![img](/image18.png)
+![img](image18.png)
 
 Collections and Relations is the heart of the CDP which can store any data type. This is extensively documented at dev.intempt.com. If you need with Sources or with API Sources in particular, you can reach out to us at [success@intempt.com](mailto:success@intempt.com).
 
@@ -60,7 +60,7 @@ Collections and Relations is the heart of the CDP which can store any data type.
 
 Intempt allows you to look at data coming in from any Source and create an Event.
 
-![img](/image21.png)
+![img](image21.png)
 
 #### EVENT CREATION CONCEPTS ####
 
@@ -91,7 +91,7 @@ Steps | Description
 
 #### COMBINE EVENTS AND USE TIME-FRAME AND COUNTERS TO PINPOINT A SET OF USERS ####
 
-![img](/image22.png)
+![img](image22.png)
 
 #### Create Segment: Steps ####
 
