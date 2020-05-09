@@ -2,7 +2,7 @@ const path = require("path");
 
 module.exports = {
   title: 'Platform',
-  base: '/help-docs/',
+  base: '/help/',
   outputDir: path.resolve(__dirname, ".vuepress/dist"),	
   description: '',
   head: [
@@ -18,7 +18,7 @@ module.exports = {
     }
   },
   themeConfig: {
-    repo: 'https://github.com/intempt/help-docs',
+    repo: 'https://github.com/intempt/help',
     logo: 'logo-footer.svg',
     editLinks: true,
     docsDir: 'docs',
