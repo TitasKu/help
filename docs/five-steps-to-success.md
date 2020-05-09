@@ -110,6 +110,6 @@ Steps | Description
 
 There are two ways to call Intempt and get Segment information. One is by querying a Segment for its Users and the other is by querying a User for it’s Segments
 
-Check out our [Retrieve Segments at Runtime](https://help.ost.com/platform/docs/) guide for more detailed instructions.
+Check out our [Retrieve Segments at Runtime] We will update this guide with more detailed instructions shortly.
 
 ----
