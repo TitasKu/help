@@ -2,7 +2,7 @@ const path = require("path");
 
 module.exports = {
   title: 'Platform',
-  base: '/help/',
+  base: '/',
   outputDir: path.resolve(__dirname, ".vuepress/dist"),
   description: '',
   head: [
