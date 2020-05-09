@@ -2,7 +2,9 @@ const path = require("path");
 
 module.exports = {
   title: 'Platform',
-  base : '/help-docs',
+  publicPath: process.env.NODE_ENV === 'production'
+    ? '/help-docs/'
+    : '/',
   description: '',
   head: [
     ['meta', { name: 'theme-color', content: '#3eaf7c' }],
