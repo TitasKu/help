@@ -2,7 +2,7 @@
 
 ## 1. Web App
 
-You will first need to register for a free account on [Intempt Platform](https://app.intempt.com/login "Intempt Platform").
+You will first need to register for a free account on the [Intempt Platform](https://app.intempt.com/login "Intempt Platform").
 
 For the Web App, you’ll need to create your own authorization token and to add that to the sample app. This is the most straight-forward ⁠— sign-up and Create a New Organization. You will then Create a New Source of type Web.
 
@@ -14,7 +14,7 @@ Follow the steps and screenshots [here](https://github.com/intempt/intempt-js/tr
 
 ## 2. iOS App
 
-You will first need to register for a free account on [Intempt Platform](https://app.intempt.com/login "Intempt Platform").
+You will first need to register for a free account on the [Intempt Platform](https://app.intempt.com/login "Intempt Platform").
 
 For the iOS App, you'll need to create your own authorization token and to add that to the sample app. It is simple ⁠— sign-up and Create a New Organization. After that, Create a New Source of type iOS. You should then fork our Github repo and replace the Playground Source referenced within the Sample App to your own. 
 
