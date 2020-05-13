@@ -10,7 +10,7 @@ The average revenue recorded across all events that record a trackcharge propert
 
 In campaign metrics, only the goal of the campaign counts as a conversion. In all other views, [any event defined by you as a conversion event](https://help.intempt.com/events.html#event-definition) will be counted as a conversion event.
 
-Typically, a conversion event represents a revenue-generating moment during a visit. Completing a sale is the classic example of “conversion.” However, you can define any event you like as a conversion event.
+Typically, a conversion event represents a revenue-generating moment during a visit. Completing a sale is a classic example of “conversion.” However, you can define any event you like as a conversion event.
 
 **conversion rate**
 
@@ -22,7 +22,7 @@ Depending on what events you define as conversion events, it can be possible for
 
 **event**
 
-One action that a user does on a website or app. Like viewed a page, downloaded a guide, purchased a shirt, entered a store, took a flight etc
+One action that a user does on a website or app. Like viewed a page, downloaded a guide, purchased a shirt, entered a store, took a flight etc.
 
 **lift**
 
@@ -46,7 +46,7 @@ The average revenue across all visitors in a [measured population](https://help.
 
 **success metric**
 
-Any of several measurements used to determine the success (or failure) of a campaign. Current success metrics are:
+Any of the several measurements used to determine the success (or failure) of a campaign. Current success metrics are:
 - [conversion rate](https://help.intempt.com/glossary.html#term-conversion-rate)
 - [time on site](https://help.intempt.com/glossary.html#term-time-on-site)
 - [page views per visit](https://help.intempt.com/glossary.html#term-page-views-per-visit)
@@ -55,7 +55,7 @@ Any of several measurements used to determine the success (or failure) of a camp
 
 **segment**
 
-A segment is a group of visitors who share a defined set of properties or behaviors. Segments are used to micro target your customer base.
+A segment is a group of visitors who share a defined set of properties or behaviors. Segments are used to micro-target your customer base.
 
 **source**
 
@@ -69,7 +69,7 @@ The average length of visitor sessions across all visitors within the [measured 
 
 **untreated**
 
-All campaign-eligible visitors will receive campaign-related notifications. Treated notifications are visible to the visitor, and are sent in the hope of encouraging the user to take action. Untreated notifications are not visible to the user, and are used to establish a [control group](https://en.wikipedia.org/wiki/Treatment_and_control_groups) for measuring the effectiveness of a campaign.
+All campaign-eligible visitors will receive campaign-related notifications. Treated notifications are visible to the visitor, and are sent in the hope of encouraging the user to take action. Untreated notifications are not visible to the user and are used to establish a [control group](https://en.wikipedia.org/wiki/Treatment_and_control_groups) for measuring the effectiveness of a campaign.
 
 **user**
 

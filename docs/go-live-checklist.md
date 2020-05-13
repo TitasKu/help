@@ -6,7 +6,7 @@ This is a requirements checklist for Intempt Platform clients to check the readi
 
 Check | Item
 ----- | -----------
-1 | Ensure that you are mapping your SQL/Server store STAR schema correctly to Collections and Relations<ul><li>Your set of Collections and Relations are defined correctly</li><li>YForiegn key relationships are correct</li><li>When the data changes at your Server, there is a process in place to sync it back in</li></ul> Ensure that your Server is querying Intempt correctly for Segment relationships <ul><li>Server is calling Segment API using correct nomenclature</li><li>If Server is querying by UserId, ensure the UserId’s being used are correct Identifiers in Intempt</li></ul>
+1 | Ensure that you are mapping your SQL/Server store STAR schema correctly to Collections and Relations<ul><li>Your set of Collections and Relations are defined correctly</li><li>Foreign key relationships are correct</li><li>When the data changes at your Server, there is a process in place to sync it back in</li></ul> Ensure that your Server is querying Intempt correctly for Segment relationships <ul><li>Server is calling Segment API using correct nomenclature</li><li>If Server is querying by UserId, ensure the UserId’s being used are correct Identifiers in Intempt</li></ul>
 2 | The application is correctly authenticating to Intempt to make requests
 3 | Ensure your Production backend servers, databases, and other resources are appropriately secured to call Intempt and send and receive data
 
