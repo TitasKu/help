@@ -18,7 +18,7 @@ After searching and booking a reservation, the User is asked to download the App
 
 ## 2. Workflow:  Download App and Login
 
-After making a reservation, the User is asked to download the App and login. Now the User can check out what type of experience he can expect at the restaurant.
+After making a reservation, the User is asked to download the App and login. Now the User can check out what type of experience can be expected at the restaurant.
 
 **USER AUTHENTICATION**
 
@@ -38,17 +38,17 @@ While in the restaurant, the User is encouraged to explore the menu to order and
 
 ![img](image6.png)
 
-## 4. Workflow: Finally, User reviews the options and place the order
+## 4. Workflow: Finally, the User reviews the options and places the order
 
 ![img](image1.jpg)
 
-Once biometrics are implemented, the User can authorize new Sessions with her biometrics and only rely on the PIN as a backup if biometrics are not working.
+Once biometrics are implemented, the User can authorize new Sessions with biometrics and only rely on the PIN as a backup if biometrics are not working.
 
 **RETENTION & REFERRAL WORKFLOW**
 
 ## 5. Drive engagement with social actions
 
-Users that have finished their meal and had a good experience (evidenced by a 5* review in the App) are encouraged to receive a complimentary appetizer on their next visit and encouraged to share their experience with their community.
+After the User finishes the meal and leaves positive feedback (evidenced by a 5* review in the App), the restaurant offers a complimentary appetizer on the next visit. It also encourages to share the experience with the community.
 
 ![img](image5.jpg)
 
@@ -71,7 +71,7 @@ At Intempt, we have a Customer Data Platform that syncs and merges the User prof
 
 As you can imagine, your Users are in various stages. Some have made a reservation but haven’t ordered yet. Others have ordered multiple times but still haven’t reviewed or shared their experience. A number of them have been to many events and are loyal advocates of your brand.
 
-Finally, apart from behavior, some Users have different demographics. We don’t just mean gender and age; we assume they’re a food critic, a chef, a vegan, or a client that has a stated preference for privacy and non-smoking.
+Finally, apart from behavior, some Users have different demographics. We don’t just mean gender and age; we assume they’re a food critic, a chef, a vegan, or a client with a stated preference for privacy and non-smoking.
 
 ![img](image17.png)
 

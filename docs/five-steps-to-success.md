@@ -1,6 +1,6 @@
 # Five Steps to Success
 
-There are five major steps to getting started with the Intempt Platform. Follow these steps through to completion to create, test, and launch your own Personalization in your app.
+There are five major steps to getting started with Intempt Platform. Follow these steps through to completion to create, test, and launch your own Personalization in your app.
 
 Step          | Description   | Skillset      | Approx Duration
 ------------- | ------------- | ------------- | -------------
@@ -26,7 +26,7 @@ We are forever making improvements to our APIs, SDKs, and documentation and expe
 
 ### a. Sign-up on Intempt Platform ###
 
-The first thing you need to do to get started with the Intempt Platform is to [sign-up for an account](https://app.intempt.com/login "Intempt SignUp"). You will have to activate your account using the activation link sent to you upon registration.
+The first thing you need to do to get started with Intempt Platform is to [sign-up for an account](https://app.intempt.com/login "Intempt SignUp"). You will have to activate your account using the activation link sent to you upon registration.
 
 #### INTEMPT PLATFORM IS AVAILABLE ON DESKTOP BROWSERS ONLY ####
 
@@ -42,7 +42,7 @@ During setup, for the Sources that you see yourself getting data from, you will 
 ![img](image15.png)
 
 ::: warning
-- Refer to the Intempt [JS SDK](https://github.com/intempt/intempt-intemptjs) on Github to understand the configuration options when deploying the JS source.
+- Refer to Intempt [JS SDK](https://github.com/intempt/intempt-intemptjs) on Github to understand the configuration options when deploying the JS source.
 :::
 
 
