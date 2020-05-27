@@ -30,7 +30,7 @@ The first thing you need to do to get started with Intempt Platform is to [sign-
 
 #### INTEMPT PLATFORM IS AVAILABLE ON DESKTOP BROWSERS ONLY ####
 
-Intempt Platform is available on desktop only using either Chrome or Firefox. If you navigate to the sign-up link above on mobile, you will be allowed to proceed but we recommend a Desktop browser for the best experience. 
+Intempt Platform is available on desktop only using either Chrome or Firefox. If you navigate to the sign-up link above on mobile, you will be allowed to proceed but we recommend a Desktop browser for the best experience.
 After you register you will immediately receive access to the Playground Organization. You should create your own Organization that will house your data in Sources.
 
 ![img](image1.png)
@@ -68,7 +68,7 @@ Intempt allows you to look at data coming in from any Source and create an Event
 - The Source that is chosen will present the possible Collections. For example, the Web source will display Page, Interaction, Visit and Visitor
 - The iOS Source will display Scene, Launch, Interaction
 - The iOS Source with Beacon will display Entry and Exit
-- You can use these Collections to create AND and OR filters for the Properties of the Collection. 
+- You can use these Collections to create AND and OR filters for the Properties of the Collection.
 
 Once you associate the owner address the token set-up process starts. This process involves running multiple blockchain transactions on Ethereum blockchain and OpenST Side Chains, so the process takes several minutes to complete.
 
