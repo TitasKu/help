@@ -61,6 +61,18 @@ module.exports = {
             'five-steps-to-success',
             'go-live-checklist',
             'useful-definition',
+            '/'
+]
+},
+{
+  title: 'Console',
+  collapsable: false,
+  children: [
+    'getting-started',
+    'sources',
+    'events',
+    'segments',
+    'glossary',
           ]
         }
       ],
