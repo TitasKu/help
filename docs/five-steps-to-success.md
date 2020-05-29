@@ -30,8 +30,8 @@ The first thing you need to do to get started with Intempt Platform is to [sign-
 
 #### INTEMPT PLATFORM IS AVAILABLE ON DESKTOP BROWSERS ONLY ####
 
-Intempt Platform is available on desktop only using either Chrome or Firefox. If you navigate to the sign-up link above on mobile, you will be allowed to proceed, but we recommend a Desktop browser for the best experience.
-After you register, you will immediately receive access to the Playground Organization. You should create your own Organization that will house your data in Sources.
+Intempt Platform is available on desktop only using either Chrome or Firefox. If you navigate to the sign-up link above on mobile, you will be allowed to proceed but we recommend a Desktop browser for the best experience.
+After you register you will immediately receive access to the Playground Organization. You should create your own Organization that will house your data in Sources.
 
 ![img](image1.png)
 
