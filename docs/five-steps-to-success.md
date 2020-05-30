@@ -10,7 +10,7 @@ Step          | Description   | Skillset      | Approx Duration
 4. Launch to End-Users! | <ul><li>Request to move to Production</li><li>Conduct an initial pilot</li><li>Fine-tune Segments and Experiences</li><li>Incorporate more use cases</li><li>Assess impact on KPIs, e.g. AOV, RPV, Conversion Rate</li></ul> | Non-technical | Project dependent
 
 ::: tip
-This is a tipStep 2 can be conducted in parallel with Step 3. Step 2 and Step 3 must be finalised before moving to Production and launching to end-users (Step 4).
+Step 2 can be conducted in parallel with Step 3. Step 2 and Step 3 must be finalised before moving to Production and launching to end-users (Step 4).
 :::
 
 ## Technical Skills Requirement (Based on Recent Projects) ##
@@ -19,7 +19,7 @@ Skills Required | Language (if applicable) | Approx Duration
 -------------   | ------------------------ | ---------------
 UX / UI designers | n/a | ~1 week
 Front-end web developer | HTML, CSS, JavaScript | ~1 week
-Back-end web developer (server side SDKs) | Java, JavaScript, PHP, or Ruby | 1-2 weeks
+Back-end web developer (server-side SDKs) | Java, JavaScript, PHP, or Ruby | 1-2 weeks
 iOS developer (Wallet SDK) | Swift or React Native | 1-2 weeks
 
 We are forever making improvements to our APIs, SDKs, and documentation and expect these times to reduce over time.
@@ -42,7 +42,7 @@ During setup, for the Sources that you see yourself getting data from, you will 
 ![img](image15.png)
 
 ::: warning
-- Refer to the Intempt [JS SDK](https://github.com/intempt/intempt-intemptjs) on Github to understand the configuration options when deploying the JS source.
+- Refer to Intempt [JS SDK](https://github.com/intempt/intempt-intemptjs) on Github to understand the configuration options when deploying the JS source.
 :::
 
 
@@ -52,7 +52,7 @@ For all Sources that are not of Web or iOS, you can directly call the Collection
 
 ![img](image18.png)
 
-Collections and Relations is the heart of the CDP which can store any data type. This is extensively documented at dev.intempt.com. If you need with Sources or with API Sources in particular, you can reach out to us at [success@intempt.com](mailto:success@intempt.com).
+Collections and Relations are the heart of the CDP, which can store any data type. This is extensively documented at dev.intempt.com. If you need support with Sources or with API Sources, in particular, you can reach out to us at [success@intempt.com](mailto:success@intempt.com).
 
 ### c. Create Events ###
 
@@ -70,7 +70,7 @@ Intempt allows you to look at data coming in from any Source and create an Event
 - The iOS Source with Beacon will display Entry and Exit
 - You can use these Collections to create AND and OR filters for the Properties of the Collection.
 
-Once you associate the owner address the token set-up process starts. This process involves running multiple blockchain transactions on Ethereum blockchain and OpenST Side Chains, so the process takes several minutes to complete.
+Once you associate the owner's address, the token set up process starts. This process involves running multiple blockchain transactions on Ethereum blockchain and OpenST Side Chains, so the process takes several minutes to complete.
 
 #### Create Event: Steps ####
 
@@ -98,7 +98,7 @@ Steps | Description
 Steps | Description
 ----- | -----------
 1   | Create Segment
-2   | Choose Has Done or Has Not Done for an event that has or has not occured
+2   | Choose Has Done or Has Not Done for an event that has or has not occurred
 3   | Choose Count Of for an Event that needs to be counted
 4   | Choose a timeframe
 5   | Choose a Profile for any Profile properties that are registered (for the Sources in the system)
@@ -108,8 +108,8 @@ Steps | Description
 
 ### e. Retrieve segments at real time ###
 
-There are two ways to call Intempt and get Segment information. One is by querying a Segment for its Users and the other is by querying a User for it’s Segments
+There are two ways to call Intempt and get Segment information. One is by querying a Segment for its Users and the other is by querying a User for its Segments.
 
-Check out our [Retrieve Segments at Runtime] We will update this guide with more detailed instructions shortly.
+Check out our [Retrieve Segments at Runtime]. We will update this guide with more detailed instructions shortly.
 
 ----
