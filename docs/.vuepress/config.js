@@ -27,6 +27,10 @@ module.exports = {
     activeHeaderLinks : true,
     nav: [
       {
+        text: 'Slack Us',
+        link: 'https://tryintempt.slack.com/',
+      },
+      {
         text: 'Docs',
         link: '/',
       },
@@ -49,7 +53,6 @@ module.exports = {
           title: 'Introduction',
           collapsable: false,
           children: [
-            '',
             'what-is-intempt-platform',
             'what-can-i-do-with-intempt-patform',
             'sources-explained',
@@ -61,7 +64,6 @@ module.exports = {
             'five-steps-to-success',
             'go-live-checklist',
             'useful-definition',
-            '/'
 ]
 },
 {

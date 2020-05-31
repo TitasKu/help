@@ -1,6 +1,6 @@
 # Welcome to Intempt Platform
 
-![img](what-is-intempt.png)
+![img](customer-data-platform.png)
 
 Intempt Platform is the industry’s first full-featured “no-code” CDXP Customer Data and Experience platform. It provides a set of unified data, segmentation, and experience serving technology with APIs, SDKs, and protocols that enable businesses to launch their own Intempt-based User data aggregation and to serve personalized experiences to any endpoint.
 
