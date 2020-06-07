@@ -4,7 +4,7 @@ module.exports = {
   title: 'Platform',
   base: '/',
   outputDir: path.resolve(__dirname, ".vuepress/dist"),
-  description: '',
+  description: 'Intempt Platform is the industry’s first full-featured “no-code” CDXP Customer Data and Experience platform. It provides a set of unified data, segmentation, and experience serving technology',
   head: [
     ['meta', { name: 'theme-color', content: '#3eaf7c' }],
     ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
